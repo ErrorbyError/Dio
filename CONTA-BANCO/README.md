@@ -1,1 +1,1 @@
-## Tarefa atribuida aos intregantes do bootcamp da DIO.
+## Tarefa atribuida aos integrantes do bootcamp da DIO.
